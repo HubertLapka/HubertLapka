@@ -1,5 +1,9 @@
-## Hi there 👋
-
+<div align="center">
+  ## Hi there 👋, I'm Hubert Łapka
+  ### A passionate bioinformatics from Poland
+</div>
+* 🎓 I'm currently studying bioinformatics
+* 🌱 I’m currently learning quantum algorithms and RNA structure prediction
 <!--
 **HubertLapka/HubertLapka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
